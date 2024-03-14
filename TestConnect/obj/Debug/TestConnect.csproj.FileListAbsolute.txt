@@ -1,0 +1,12 @@
+C:\Users\DR\source\repos\TestConnect\TestConnect\obj\Debug\TestConnect.csproj.AssemblyReference.cache
+C:\Users\DR\source\repos\TestConnect\TestConnect\obj\Debug\TestConnect.csproj.CoreCompileInputs.cache
+C:\Users\DR\source\repos\TestConnect\TestConnect\bin\Debug\TestConnect.exe.config
+C:\Users\DR\source\repos\TestConnect\TestConnect\bin\Debug\TestConnect.exe
+C:\Users\DR\source\repos\TestConnect\TestConnect\bin\Debug\TestConnect.pdb
+C:\Users\DR\source\repos\TestConnect\TestConnect\bin\Debug\NinjaTrader.Client.dll
+C:\Users\DR\source\repos\TestConnect\TestConnect\bin\Debug\NinjaTrader.Client.dll.config
+C:\Users\DR\source\repos\TestConnect\TestConnect\obj\Debug\TestConn.6D70452D.Up2Date
+C:\Users\DR\source\repos\TestConnect\TestConnect\obj\Debug\TestConnect.exe
+C:\Users\DR\source\repos\TestConnect\TestConnect\obj\Debug\TestConnect.pdb
+C:\Users\DR\source\repos\TestConnect\TestConnect\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DR\source\repos\TestConnect\TestConnect\bin\Debug\Newtonsoft.Json.xml
